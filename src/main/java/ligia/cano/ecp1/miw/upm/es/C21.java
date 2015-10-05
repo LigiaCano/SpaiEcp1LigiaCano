@@ -10,4 +10,9 @@ public class C21 {
 	{
 		return "m2";
 	}
+	
+	public String m3()
+	{
+		return "m3";
+	}
 }
